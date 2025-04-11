@@ -1,19 +1,19 @@
-<h1 align="cente">Hi, I'm Kwaku Danso 👋</h1>  
+<h1 align="cente">Hi, I'm Kwaku Danso </h1>  
 <p align="cente">
-🚀 DevOps Engineer | Cloud & Kubernetes Enthusiast | CI/CD | Terraform | AWS | Automation | Infrastructure as Code (IaC)  
+DevOps Engineer | Cloud & Kubernetes Enthusiast | CI/CD | Terraform | AWS | Automation | Infrastructure as Code (IaC)  
 </p>  
 
 ---
 
-### 🔥 **About Me**  
+### **About Me**  
 I am a **DevOps Engineer** with **6+ years** of experience in **automation, cloud infrastructure, and CI/CD pipelines**. My expertise lies in **Kubernetes, Docker, Terraform, AWS, Jenkins**, and other DevOps tools to **optimize deployments, enhance scalability, and improve system reliability**.  
 
-💡 **Passionate about:**  
-✅ Automating deployments & infrastructure provisioning using **Terraform & Ansible**  
-✅ Managing **Kubernetes clusters & microservices architectures**  
-✅ Optimizing **CI/CD pipelines** for faster software delivery  
-✅ Improving system **observability & security** with **Prometheus, Grafana & ELK**  
-✅ Bridging **development & operations** for seamless software releases  
+**Passionate about:**  
+ Automating deployments & infrastructure provisioning using **Terraform & Ansible**  
+ Managing **Kubernetes clusters & microservices architectures**  
+ Optimizing **CI/CD pipelines** for faster software delivery  
+ Improving system **observability & security** with **Prometheus, Grafana & ELK**  
+ Bridging **development & operations** for seamless software releases  
 
 📍 **Location:** Reading, UK 🇬🇧  
 
